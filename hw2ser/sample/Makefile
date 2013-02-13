@@ -1,6 +1,6 @@
 CC=gcc
 
-all: hello_pthreads.ex hello_mpi.ex hello_cuda.ex hello_omp.ex
+all: hello_pthreads.ex hello_mpi.ex hello_omp.ex
 
 hello_pthreads.ex:
 	$(CC) -pthread -o hello_pthreads.ex hello_pthreads.c 

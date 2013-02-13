@@ -9,7 +9,14 @@
 
 
 #include "simdocs.h"
+#include "pthread.h"
 
+/*************************************************************************/
+/*! Setup the number of threads */
+/**************************************************************************/
+#ifndef NTHREADS
+#define NTHREADS 8
+#endif
 
 /*************************************************************************/
 /*! This is the entry point for finding simlar patents */
