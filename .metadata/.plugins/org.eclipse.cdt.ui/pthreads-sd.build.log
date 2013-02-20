@@ -1,0 +1,6 @@
+00:30:51 **** Incremental Build of configuration Default for project pthreads-sd ****
+make all 
+make: Nothing to be done for `all'.
+
+00:30:51 Build Finished (took 59ms)
+
