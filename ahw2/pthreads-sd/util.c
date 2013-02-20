@@ -1,5 +1,7 @@
 #include "simdocs.h"
 
+
+
 #define OMPMINOPS       50000
 
 static int gk_exit_on_error = 1;

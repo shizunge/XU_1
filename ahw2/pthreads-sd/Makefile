@@ -19,5 +19,7 @@ $(EXE):
 	$(CC) $(CFLAGS) $(SOURCE) $(LIBS) -o $(EXE)
 
 .PHONY: clean
+
 clean:
 	rm -rf *.o $(EXE)
+	ls
