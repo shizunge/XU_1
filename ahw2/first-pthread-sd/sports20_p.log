@@ -1,0 +1,14 @@
+./sd -nnbrs=20 -minsim=.3 /home/xuxxx625/p/ahw2/hw2_data/sports20.mat sports20_p.nbrs 
+********************************************************************************
+sd (0.1.0) Copyright 2011, GK.
+  nnbrs=20, minsim=0.30
+Reading data for /home/xuxxx625/p/ahw2/hw2_data/sports20.mat...
+#docs: 171600, #nnz: 22159600.
+Number of threads 8
+    wclock: 2493.46s
+    timer1: 0.00s
+    timer2: 0.00s
+    timer3: 0.00s
+    timer4: 0.00s
+********************************************************************************
+********************************************************************************

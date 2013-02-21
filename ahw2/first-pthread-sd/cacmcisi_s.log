@@ -1,0 +1,13 @@
+./sd_serial -nnbrs=20 -minsim=.3 /home/xuxxx625/p/ahw2/hw2_data/cacmcisi.mat cacmcisi_s.nbrs 
+********************************************************************************
+********************************************************************************
+sd (0.1.0) Copyright 2011, GK.
+  nnbrs=20, minsim=0.30
+Reading data for /home/xuxxx625/p/ahw2/hw2_data/cacmcisi.mat...
+#docs: 4663, #nnz: 83181.
+    wclock: 0.10s
+    timer1: 0.08s
+    timer2: 0.00s
+    timer3: 0.00s
+    timer4: 0.00s
+********************************************************************************

@@ -1,7 +1,7 @@
 /*!
 \file  main.c
 \brief This file is the entry point for paragon's various components
- 
+
 \date   Started 11/27/09
 \author George
 \version\verbatim $Id: omp_main.c 9585 2011-03-18 16:51:51Z karypis $ \endverbatim

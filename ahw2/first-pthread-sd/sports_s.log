@@ -1,0 +1,13 @@
+./sd_serial -nnbrs=20 -minsim=.3 /home/xuxxx625/p/ahw2/hw2_data/sports.mat sports_s.nbrs 
+********************************************************************************
+********************************************************************************
+sd (0.1.0) Copyright 2011, GK.
+  nnbrs=20, minsim=0.30
+Reading data for /home/xuxxx625/p/ahw2/hw2_data/sports.mat...
+#docs: 8580, #nnz: 1107980.
+    wclock: 3.22s
+    timer1: 3.03s
+    timer2: 0.00s
+    timer3: 0.00s
+    timer4: 0.00s
+********************************************************************************
